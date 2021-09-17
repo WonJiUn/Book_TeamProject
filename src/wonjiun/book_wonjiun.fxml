@@ -90,9 +90,9 @@
             </Label>
          </children>
       </AnchorPane>
-      <AnchorPane layoutX="707.0" layoutY="524.0" prefHeight="154.0" prefWidth="280.0" style="-fx-border-color: gray;">
+      <AnchorPane layoutX="715.0" layoutY="437.0" prefHeight="241.0" prefWidth="264.0" style="-fx-border-color: gray;">
          <children>
-            <Button layoutX="191.0" layoutY="109.0" mnemonicParsing="false" onAction="#Close" prefHeight="31.0" prefWidth="75.0" text="종료" />
+            <Button layoutX="175.0" layoutY="188.0" mnemonicParsing="false" onAction="#Close" prefHeight="31.0" prefWidth="75.0" text="종료" />
             <Label fx:id="information" layoutX="14.0" layoutY="19.0" prefHeight="83.0" prefWidth="246.0" text="도서관리 프로그램입니다" wrapText="true">
                <font>
                   <Font size="14.0" />

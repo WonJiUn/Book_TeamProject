@@ -11,7 +11,7 @@ public class Borrow_func {
 	Search_func search_func;
 	DBClass db;
 	String borrowBookName;
-	String id = "test";
+	String id = "test0";
 	//나중에 여기와 Member_func의 아이디값 바꿔야함
 	
 	public void setRoot(Parent root) {

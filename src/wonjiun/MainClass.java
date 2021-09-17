@@ -20,7 +20,7 @@ public class MainClass extends Application {
 		ctl.setRoot(root);
 		
 		arg0.setScene(scene);
-		arg0.setTitle("도서관리 프로그램");
+		arg0.setTitle("새 도서 등록 / 도서 대출");
 		arg0.show();
 	}
 	public static void main(String[] args) {

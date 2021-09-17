@@ -11,8 +11,8 @@ public class Member_func {
 	private Parent root;
 	DBClass db;
 	ArrayList<MemberDTO> list;
-	String id = "test";
-	String pwd = "123";
+	String id = "test0";
+	String pwd = "000";
 	//나중에 여기와 Borrow_func의 아이디값 바꿔야함
 	
 	public void setRoot(Parent root) {
